@@ -1,0 +1,9 @@
+2017-01-14 23:24:59,112 [INFO] exampleApp.otherMod2.add: added 7 and 8 to get 15
+2017-01-14 23:24:59,112 [WARNING] __main__: ======Done!
+2017-01-14 23:24:59,112 [INFO] exampleApp.otherMod2.add: added 7 and 8 to get 15
+2017-01-14 23:25:57,042 [INFO] __main__: Program started
+2017-01-14 23:25:57,043 [INFO] exampleApp.otherMod2.add: added 7 and 8 to get 15
+2017-01-14 23:25:57,043 [WARNING] __main__: ======Done!
+2017-01-14 23:25:57,043 [DEBUG] __main__:  = = = = =Program started
+2017-01-14 23:25:57,043 [INFO] exampleApp.otherMod2.add: added 7 and 8 to get 15
+2017-01-14 23:25:57,043 [DEBUG] __main__:  = = = = Done!
